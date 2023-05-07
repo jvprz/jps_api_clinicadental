@@ -36,7 +36,7 @@
 
 - GET /visit -> List all visits.
 - GET /visit/{id} -> Get an specitic visit.
-- GET /visit/odontologist/{odontologistId}
+- GET /visit/odontologist/{odontologistId} -> List visits for odontologist.
 - GET /visit/client/{clientId} -> List visits for client.
 - POST /visit -> Insert a visit.
 - PUT /visit/{id} -> Update an specific visit.
